@@ -8,6 +8,10 @@ package printstudentdetails;
  *
  * @author gagan
  */
+/**
+ * this is sky
+ * @author gagan
+ */
 public class Student {
     private String name;
     private int age;
